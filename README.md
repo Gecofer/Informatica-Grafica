@@ -1,8 +1,10 @@
 # UGR-IG
 
-Prácticas de la asignatura Informática Gráfica - Grado en Ingeniería Informática (UGR) - Curso 2016/2017
+Prácticas de la asignatura Informática Gráfica - Grado en Ingeniería Informática (UGR)
 
-Última fecha de compilación **Enero de 2017**
+**Curso 2016/2017**
+
+Última fecha de compilación *Enero de 2017*
  
  - Práctica 1: Modelado y visualización de objetos 3D sencillos
  - Práctica 2: Modelos PLY y Poligonales
