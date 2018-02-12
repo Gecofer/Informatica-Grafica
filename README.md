@@ -4,7 +4,7 @@ Prácticas de la asignatura Informática Gráfica - Grado en Ingeniería Inform�
 
 **Curso 2016/2017**
 
-Última fecha de compilación *Enero de 2017*
+Prácticas realizadas en una máquina virtual de Ubuntu instalada en Mac. Última fecha de compilación *Enero de 2017*
  
  - Práctica 1: Modelado y visualización de objetos 3D sencillos
  - Práctica 2: Modelos PLY y Poligonales
